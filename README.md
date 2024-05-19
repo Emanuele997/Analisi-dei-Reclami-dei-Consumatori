@@ -1,11 +1,11 @@
 # Analisi-dei-Reclami-dei-Consumatori
 
-Modifica foglio di calcolo su reclami degli utenti
+Modifica foglio di calcolo su reclami degli utenti.
 Questo progetto consiste nel modificare il foglio di calcolo allegato in modo da soddisfare alcuni requisiti.
 
 
 Per affrontare questo progetto, ho iniziato esaminando il dataset iniziale e identificando le informazioni chiave presenti, come la data del reclamo, il prodotto coinvolto, la natura e il dettaglio del problema, la risposta della compagnia, e altri dati demografici e procedurali.
-L'analisi iniziale ti ha permesso di capire quali modifiche erano necessarie per migliorare la gestione e la visualizzazione dei dati.
+L'analisi iniziale mi ha permesso di capire quali modifiche erano necessarie per migliorare la gestione e la visualizzazione dei dati.
 
 Ho proceduto alla ristrutturazione del foglio di calcolo in tre schede principali: "Consumer complaints", "Geographical insights", e "Statistical insights", ciascuna con specifiche caratteristiche di visualizzazione e organizzazione dei dati, come richiesto:
 
